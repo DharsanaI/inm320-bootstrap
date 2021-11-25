@@ -1,0 +1,42 @@
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+body {
+    min-height: fill-available;
+    background-color: #F7F8FC;
+}
+
+html {
+    height: fill-available;
+}
+
+.sidebar {
+    display: flex;
+    flex-wrap: nowrap;
+    height: fill-available;
+    overflow-x: auto;
+    overflow-y: auto; 
+    background-color: #363740;
+}
+
+.sidebar div ul li a:hover {
+    background-color: #9FA2B4;
+}
+
+.tickets div a p:hover {
+    color: darkblue;
+}
+
+.unresolvedTickets div a p:hover {
+    color: darkblue;
+}
+
+.allTickets div a p:hover {
+    color: darkblue;
+}
