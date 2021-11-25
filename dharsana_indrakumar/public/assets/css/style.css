@@ -30,13 +30,13 @@ html {
 }
 
 .tickets div a p:hover {
-    color: darkblue;
+    color: blue;
 }
 
 .unresolvedTickets div a p:hover {
-    color: darkblue;
+    color: blue;
 }
 
 .allTickets div a p:hover {
-    color: darkblue;
+    color: blue;
 }
